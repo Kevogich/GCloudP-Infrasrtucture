@@ -2,7 +2,7 @@
 FROM python:3.9
 
 # Copy the Python script to the container
-COPY your_script.py /app/your_script.py
+COPY plant-simulation-script.py /app/plant-simulation-script.py
 
 # Install any necessary dependencies 
 
